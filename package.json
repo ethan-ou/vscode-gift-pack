@@ -3,9 +3,14 @@
     "displayName": "GIFT Language Pack",
     "description": "An extension pack for Moodle's GIFT Language",
     "version": "0.0.1",
+    "publisher": "ethan-ou",
     "engines": {
         "vscode": "^1.33.0"
     },
+    "keywords": [
+        "gift",
+        "moodle"
+    ],
     "categories": [
         "Extension Packs"
     ],
