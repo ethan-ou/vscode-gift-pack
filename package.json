@@ -7,6 +7,11 @@
     "engines": {
         "vscode": "^1.33.0"
     },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ethan-ou/vscode-gift-pack"
+    },
     "keywords": [
         "gift",
         "moodle"
