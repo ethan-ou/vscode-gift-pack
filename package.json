@@ -1,0 +1,17 @@
+{
+    "name": "vscode-gift-pack",
+    "displayName": "GIFT Language Pack",
+    "description": "An extension pack for Moodle's GIFT Language",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ethan-ou.vscode-gift", 
+        "ethan-ou.vscode-gift-features", 
+        "ethan-ou.vscode-gift-preview"
+    ]
+}
