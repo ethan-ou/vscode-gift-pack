@@ -1,26 +1,27 @@
 {
-    "name": "vscode-gift-pack",
-    "displayName": "GIFT Language Pack",
-    "description": "An extension pack for Moodle's GIFT Language",
-    "version": "0.0.2",
-    "publisher": "ethan-ou",
-    "engines": {
-        "vscode": "^1.33.0"
-    },
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/ethan-ou/vscode-gift-pack"
-    },
-    "keywords": [
-        "gift",
-        "moodle"
-    ],
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [ 
-        "ethan-ou.vscode-gift",
-        "ethan-ou.vscode-gift-preview"
-    ]
+  "name": "vscode-gift-pack",
+  "displayName": "GIFT Format Pack",
+  "description": "An extension pack for Moodle's GIFT Format",
+  "version": "0.0.3",
+  "icon": "resources/icon.png",
+  "publisher": "ethan-ou",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ethan-ou/vscode-gift-pack"
+  },
+  "keywords": [
+    "gift",
+    "moodle"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ethan-ou.vscode-gift",
+    "ethan-ou.vscode-gift-preview"
+  ]
 }
